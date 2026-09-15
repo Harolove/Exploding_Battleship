@@ -24,3 +24,8 @@ Il y a 4 type de bateaux, chaque bateau a une identité unique pour les reconna�
 * Porte-avion : Très grand bateau de 5 de long.
 
 <img width="484" height="484" alt="matrice-1" src="https://github.com/user-attachments/assets/1d71e5fc-27d1-4758-8202-37f381b97126" />
+
+### Exemple de Partie
+
+<img width="484" height="484" alt="matrice-1" src="https://github.com/user-attachments/assets/98c238f0-ef2d-4c64-9373-71ec208c5aef" />
+
