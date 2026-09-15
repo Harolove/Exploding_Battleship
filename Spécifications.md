@@ -1,4 +1,3 @@
-<img width="484" height="484" alt="matrice-1" src="https://github.com/user-attachments/assets/1d71e5fc-27d1-4758-8202-37f381b97126" />
 ## Règles du jeu
 
 ### But
@@ -24,14 +23,4 @@ Il y a 4 type de bateaux, chaque bateau a une identité unique pour les reconna�
 * Cuirasé : Grand bateau de 4 de long.
 * Porte-avion : Très grand bateau de 5 de long.
 
-![Matrice 8x8](matrice-1.png)
-
-| N | B | N | B | N | B | N | B |
-|---|---|---|---|---|---|---|---|
-| N | B | N | B | N | B | N | B |
-| N | B | B | B | N | B | N | B |
-| N | B | N | B | B | B | N | B |
-| B | B | N | B | N | B | N | B |
-| B | B | B | B | N | B | B | B |
-| B | B | N | B | N | B | B | B |
-| B | B | N | B | B | B | B | B |
+<img width="484" height="484" alt="matrice-1" src="https://github.com/user-attachments/assets/1d71e5fc-27d1-4758-8202-37f381b97126" />
