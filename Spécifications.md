@@ -12,3 +12,23 @@ Chaque **Joueur** sélectionne à son tour à l'aide des 2 codeurs rotatifs (un 
 ### Conséquence
 Si une case désignée contient un des bateaux encore debout du **Joueur Adverse** la capacité associée explose. L'écran neoPixel du **Joueur** affiche la case en Rouge.
 Si une case désignée ne contient aucune partie d'un bateau encore debout du **Joueur Adverse** l'écran neoPixel affiche la case en Vert. Lorsque un bateau entier est touché, toutes les cases correspondantes changent de couleur en noir.
+
+
+## Fonctionnement
+
+### Type et nombre de bateau
+Il y a 4 type de bateaux, chaque bateau a une identité unique pour les reconnaître par le microprocesseur.
+* Destroyer : Petit bateau de 2 de long, il y en a 3.
+* Croiseur : Bateau de 3 de long, il y en a 2.
+* Cuirasé : Grand bateau de 4 de long.
+* Porte-avion : Très grand bateau de 5 de long.
+
+| N | B | N | B | N | B | N | B |
+|---|---|---|---|---|---|---|---|
+| N | B | N | B | N | B | N | B |
+| N | B | B | B | N | B | N | B |
+| N | B | N | B | B | B | N | B |
+| B | B | N | B | N | B | N | B |
+| B | B | B | B | N | B | B | B |
+| B | B | N | B | N | B | B | B |
+| B | B | N | B | B | B | B | B |
