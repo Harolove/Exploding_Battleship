@@ -29,3 +29,15 @@ Il y a 4 type de bateaux, chaque bateau a une identité unique pour les reconna�
 
 <img width="484" height="484" alt="matrice-1" src="https://github.com/user-attachments/assets/98c238f0-ef2d-4c64-9373-71ec208c5aef" />
 
+### Explications des couleurs de l'afficheur neoPixels
+
+<img width="401" height="118" alt="matrice-couleurs-1" src="https://github.com/user-attachments/assets/f3762051-f107-4a64-abf5-b0c051280189" />
+Il y'a 4 couleurs afficher sur l'écran neoPixel.
+* Rouge = Bateau touché
+* Bleu = L'eau
+* Vert = Tir dans l'eau (raté)
+* Noir = Bateau détruit
+
+<img width="401" height="118" alt="matrice-curseur-1" src="https://github.com/user-attachments/assets/bf32a5fe-39e7-4674-98f7-bf30141f6c9b" />
+Lorsque le joueur utilise déplace le curseur sur l'afficheur les couleurs sont moins intense
+
