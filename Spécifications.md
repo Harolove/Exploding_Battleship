@@ -1,47 +1,55 @@
-# Règles du jeu
+# Règle du jeu
 
-## Déroulement d'une partie 
+## Objectifs
+Le but est identique au jeu de bataille navale classique. Deux joueurs placent leur flotte de bateaux sur leur grille respective et, à tour de rôle, désignent une case de la grille du joueur adverse dans l'objectif de toucher un bateau ennemi. Un bateau est considéré comme détruit quand toutes les cases qu'il occupe ont été touchées. Le joueur gagnant est celui qui a détruit toute la flotte adverse.
 
-Les règles du jeu sont les même que celles du jeu classique. L'objectif de chaque joueurs est de couler tous les bateaux de la flotte adverse. Le joueur qui a le plus de bateaux encore debout à la fin gagne la partie.
+## Mise en place
+Les participants décident du nombre et du type de bateaux (par exemple 10 bateaux de 2 ou encore 2 bateaux de 5, etc.). Ils placent ensuite leur flotte sur la grille, en longueur ou en largeur (le grand PCB). Quand tous leurs bateaux ont été positionnés, ils abaissent ensuite la vitre en plexiglas (ou leur truc j'ai oublié). (IMPORTANT) La partie ne peut démarrer que lorsque la vitre est abaissée.
 
-### But
-Le **Joueur** doit couler toute la flotte du **Joueur Adverse** avant que toute sa flotte soit détruite.
+## Tour de jeu
+Chaque Joueur sélectionne à son tour à l'aide des 2 codeurs rotatifs (un pour la colonne l'autre pour la ligne de la case de tir, pendant que la carte du Joueur adverse déjà existante est en arrière plan, quand le curseur sélectionne une case indiquée par l'écran de LED, la couleur de la case devient plus claire, puis à l'aide du bouton poussoir situé entre les codeurs il effectue son tir.
 
-### Mise en place
-Chaque **Joueur** place ses bateaux sur la grille, abaisse la vitre en lexant pour actionner un interrupteur qui va servir de sécurité des deux côtés.
+## Conséquences
+Si une case désignée contient un des bateaux encore debout du Joueur adverse la capacité associée explose.
 
-### Tour de jeu
-Chaque **Joueur** sélectionne à son tour à l'aide des 2 codeurs rotatifs (un pour la colonne l'autre pour la ligne de la case de tir, pendant que la carte du **Joueur adverse** déjà existante est en arrière plan, quand le curseur sélectionne une case indiquée par l'écran de LED, la couleur de la case devient plus claire, puis à l'aide du bouton poussoir situé entre les codeurs il effectue son tir.
+# Fonctionnement
 
-### Conséquence
-Si une case désignée contient un des bateaux encore debout du **Joueur Adverse** la capacité associée explose. L'écran neoPixel du **Joueur** affiche la case en Rouge.
-Si une case désignée ne contient aucune partie d'un bateau encore debout du **Joueur Adverse** l'écran neoPixel affiche la case en Vert. Lorsque un bateau entier est touché, toutes les cases correspondantes changent de couleur en noir.
+## Bateau
+Il y a 4 type de bateaux, chaque bateau a une identité unique et sont de taille différente.
+  * Destroyer, un petit bateau de 2 de longueur.
+  * Croiseur, un bateau de 3 de longeur.
+  * Cuirasé, un grand bateau de 4 de longueur.
+  * Porte-avion, le plus grand type disponible de 5 de longueur.
+
+## Afficheur neoPixel
+Il y'a 4 couleurs affichable :
+  * Bleu = l'état par défaut (l'eau), une case qui n'a pas encore frappé
+  * Vert = un tir raté, la case frappé ne contenait aucun bateau
+  * Rouge = touché, la case frappé contenait un bateau
+  * Noir = le bateau est entierement détruit
+
+## Échappement des gaz SUPER mortel
+À l'aide d'une petite souflante on évacu tout gaz des capa explosé
+
+# Dimensionnement
+## Grille de jeu
+8 cases de long pour 8 cases de largueur, chaque cases est espacé l'une de l'autre de (à déterminer)
+
+## Afficheur neoPixel
+8 leds de long pour 8 leds de largeur (64), chaque leds est espacé l'une de l'autre de (à déterminer). L'intensité (à déterminer) est diffusé par du papier.
+
+## Capacité
+### Réference
+(à déterminer)
+
+### Tension de mise à feu
+(à déterminer)
+
+### Pic de courant
+(à déterminer)
+
+### Gaz EXTRÊMEMENT mortel
+(à déterminer)
 
 
-## Fonctionnement
-
-### Type et nombre de bateau
-Il y a 4 type de bateaux, chaque bateau a une identité unique pour les reconnaître par le microprocesseur.
-* Destroyer : Petit bateau de 2 de long, il y en a 3.
-* Croiseur : Bateau de 3 de long, il y en a 2.
-* Cuirasé : Grand bateau de 4 de long.
-* Porte-avion : Très grand bateau de 5 de long.
-
-<img width="484" height="484" alt="matrice-1" src="https://github.com/user-attachments/assets/1d71e5fc-27d1-4758-8202-37f381b97126" />
-
-### Exemple de Partie
-
-<img width="484" height="484" alt="matrice-1" src="https://github.com/user-attachments/assets/98c238f0-ef2d-4c64-9373-71ec208c5aef" />
-
-### Explications des couleurs de l'afficheur neoPixels
-
-<img width="401" height="118" alt="matrice-couleurs-1" src="https://github.com/user-attachments/assets/f3762051-f107-4a64-abf5-b0c051280189" />
-Il y'a 4 couleurs afficher sur l'écran neoPixel.
-* Rouge = Bateau touché
-* Bleu = L'eau
-* Vert = Tir dans l'eau (raté)
-* Noir = Bateau détruit
-
-<img width="401" height="118" alt="matrice-curseur-1" src="https://github.com/user-attachments/assets/bf32a5fe-39e7-4674-98f7-bf30141f6c9b" />
-Lorsque le joueur utilise déplace le curseur sur l'afficheur les couleurs sont moins intense
 
