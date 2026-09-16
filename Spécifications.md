@@ -1,4 +1,8 @@
-## Règles du jeu
+# Règles du jeu
+
+## Déroulement d'une partie 
+
+Les règles du jeu sont les même que celles du jeu classique. L'objectif de chaque joueurs est de couler tous les bateaux de la flotte adverse. Le joueur qui a le plus de bateaux encore debout à la fin gagne la partie.
 
 ### But
 Le **Joueur** doit couler toute la flotte du **Joueur Adverse** avant que toute sa flotte soit détruite.
