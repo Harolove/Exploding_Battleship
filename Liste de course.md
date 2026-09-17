@@ -11,3 +11,5 @@
 * **Multiplexeurs**
 * **Microcontrôleur basse consommation** (pour chaque bateau)
 * **Interrupteur de position de sécurité**
+* **Papier diffusant** (2 fois)
+
