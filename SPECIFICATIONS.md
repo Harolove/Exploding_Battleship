@@ -96,13 +96,21 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 8. **Tour suivant** : Apres chaque tir le joueur passe son tour.
 9. **Fin** : la partie se termine lorsque tous les bateaux d’un joueur sont coulés.
 
-## 8. Alimentation
+## 7. Système mise à feu
+
+**(à définir)**
+
+## 8. Système localisation
+
+**(à définir)**
+
+## 9. Alimentation
 
 **(à développer)**
 
-## 9. Réfenrence
+## 10. Références Matériel
 
-### 9. Capacité
+### 10.1 Capacité
 
 | Élément | Spécifications |
 | --- | --- |
@@ -110,6 +118,14 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 |Tension nominal explosion| **(à définir)**|
 |Pic de courant explosion| **(à définir)**|
 
-### 9. Modèle IA
+## 11. Références Logiciel
 
+### 11.1 Modèle IA
+
+| Élément | Spécifications |
+| --- | --- |
 |Chatgpt-6 (astra) :| mise en page git|
+
+### 11.2 Logiciel conception
+
+**(à définir)**
