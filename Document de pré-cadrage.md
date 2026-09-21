@@ -19,6 +19,11 @@ En cas de tir réussi, la capacité associé à la case du bateau explose.
 
 ## 2. Lots PBS
 
+|Lot|Taches|
+|----|----|
+|Hardware||
+|Software||
+
 ### 2.1. Compétences OBS
 
  6 personnes sur le projet. 
