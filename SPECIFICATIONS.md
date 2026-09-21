@@ -104,6 +104,8 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 
 ### 9. Capacité
 
+| Élément | Spécifications |
+| --- | --- |
 |Référence| **(àdéfinir)**|
 |Tension nominal explosion| **(à définir)**|
 |Pic de courant explosion| **(à définir)**|
