@@ -1,4 +1,3 @@
-<img width="774" height="783" alt="SmartSelect_20260921_102907_Samsung Notes" src="https://github.com/user-attachments/assets/99804b7c-2252-4230-aa5b-232849614e42" />
 # Battleship — Spécifications du projet
 
 ## 1. Présentation
