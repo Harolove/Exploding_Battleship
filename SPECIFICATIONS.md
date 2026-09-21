@@ -126,7 +126,7 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 
 | Élément | Spécifications |
 | --- | --- |
-|Chatgpt-6 (astra) :| mise en page git|
+|Chatgpt-6 astra :| mise en page git|
 
 ### 11.2 Logiciel conception
 
