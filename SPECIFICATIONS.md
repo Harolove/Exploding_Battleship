@@ -103,7 +103,7 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 
 ## 8. Système localisation
 
-<img width="774" height="783" alt="SmartSelect_20260921_102907_Samsung Notes" src="https://github.com/user-attachments/assets/851674c3-1733-448f-876e-e9550717cb7c" />
+<img width="374" height="383" alt="SmartSelect_20260921_102907_Samsung Notes" src="https://github.com/user-attachments/assets/851674c3-1733-448f-876e-e9550717cb7c" />
 
 **(à définir)**
 
