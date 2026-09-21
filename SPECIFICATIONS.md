@@ -99,3 +99,15 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 ## 8. Alimentation
 
 **(à développer)**
+
+## 9. Réfenrence
+
+### 9. Capacité
+
+|Référence| **(àdéfinir)**|
+|Tension nominal explosion| **(à définir)**|
+|Pic de courant explosion| **(à définir)**|
+
+### 9. Modèle IA
+
+|Chatgpt-6 (astra) :| mise en page git|
