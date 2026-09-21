@@ -42,6 +42,6 @@ En cas de tir réussi, la capacité associé à la case du bateau explose.
 | Système de communication entre le plateau et les bateaux | Obligation d'utiliser l'I2C pour communiquer entre les différents éléments.                                      |
 | Système de localisation                                  | Les bateaux peuvent être déployés en longueur ou en largeur et le système doit pouvoir les détecter.             |
 
-## 4. RIsques
+## 4. Risques
 
 Au vu des contraintes sécuritaires, il est fort probable que faire exploser des capacités soit interdit dans le futur. Dans ce cas-là, il ne s'agira plus que d'une version électrique d'un jeu de société déja bien connu.
