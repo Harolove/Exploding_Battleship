@@ -1,3 +1,4 @@
+<img width="774" height="783" alt="SmartSelect_20260921_102907_Samsung Notes" src="https://github.com/user-attachments/assets/99804b7c-2252-4230-aa5b-232849614e42" />
 # Battleship — Spécifications du projet
 
 ## 1. Présentation
@@ -101,6 +102,8 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 **(à définir)**
 
 ## 8. Système localisation
+
+<img width="774" height="783" alt="SmartSelect_20260921_102907_Samsung Notes" src="https://github.com/user-attachments/assets/851674c3-1733-448f-876e-e9550717cb7c" />
 
 **(à définir)**
 
