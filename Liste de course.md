@@ -1,7 +1,7 @@
 # Liste des composants
 
 * **Capacités**
-* **LEDs Neopixel** (2 grilles de 8 × 8)
+* **LEDs Neopixel** (2 grilles de 8 × 8) : 3517886
 * **4 codeur rotatifs**
 * **2 boutons-poussoirs**
 * **PCB à base de STM32L476**
