@@ -2,7 +2,7 @@
 
 * **Capacités**
 * **LEDs Neopixel** (2 grilles de 8 × 8)
-* **4 boutons rotatifs**
+* **4 codeur rotatifs**
 * **2 boutons-poussoirs**
 * **PCB à base de STM32L476**
 * **Plaque de Lexan**
