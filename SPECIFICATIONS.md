@@ -85,6 +85,14 @@ Un afficheur 8 × 8 de type neopixel au centre du jeu, entre les grilles. Il fai
 | Rouge | Tir touché : case appartenant à un bateau encore à flot |
 | Noir, LED éteinte | Case appartenant à un bateau coulé |
 
+### 5.3. Afficheur OLED
+
+(àdéfinir)
+
+### 5.4 Soundboard
+
+(àdéfinir)
+
 ## 6. Déroulement d’une partie
 
 1. **Initialisation** : le système initialise les commandes, les communications et l’affichage.
