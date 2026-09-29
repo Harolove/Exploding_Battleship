@@ -10,6 +10,6 @@
 * **Aspirateur de fumée**
 * **Multiplexeurs**
 * **Microcontrôleur basse consommation** (pour chaque bateau)
-* **Interrupteur de position de sécurité**
+* **Interrupteur de position de sécurité** et cerveau-moteur
 * **Papier diffusant** (2 fois)
 
