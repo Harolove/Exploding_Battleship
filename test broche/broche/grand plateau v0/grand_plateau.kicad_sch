@@ -13319,8 +13319,8 @@
 		)
 	)
 	(rectangle
-		(start 88.9 12.7)
-		(end 223.52 232.41)
+		(start 97.79 41.91)
+		(end 232.41 261.62)
 		(stroke
 			(width 0)
 			(type default)
@@ -13332,7 +13332,7 @@
 	)
 	(text "Plateau1 Conn"
 		(exclude_from_sim no)
-		(at 120.142 227.584 0)
+		(at 129.032 256.794 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -13343,7 +13343,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_45")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 205.74 0)
+		(at 200.66 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13352,7 +13352,7 @@
 		(fields_autoplaced yes)
 		(uuid "017b0ad5-0a1c-4912-af62-ee577b8f64ff")
 		(property "Reference" "J60"
-			(at 198.12 203.1999 0)
+			(at 207.01 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13361,7 +13361,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 205.7399 0)
+			(at 207.01 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13370,7 +13370,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 205.74 0)
+			(at 200.66 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13379,7 +13379,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 205.74 0)
+			(at 200.66 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13388,7 +13388,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 205.74 0)
+			(at 200.66 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13432,7 +13432,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_13")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 53.34 0)
+		(at 185.42 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13441,7 +13441,7 @@
 		(fields_autoplaced yes)
 		(uuid "03e575d7-0510-4817-9159-46f168869bc8")
 		(property "Reference" "J14"
-			(at 182.88 50.7999 0)
+			(at 191.77 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13450,7 +13450,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 53.3399 0)
+			(at 191.77 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13459,7 +13459,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 53.34 0)
+			(at 185.42 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13468,7 +13468,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 53.34 0)
+			(at 185.42 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13477,7 +13477,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 53.34 0)
+			(at 185.42 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13521,7 +13521,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_35")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 205.74 0)
+		(at 124.46 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13530,7 +13530,7 @@
 		(fields_autoplaced yes)
 		(uuid "0b331a3d-8138-4ab1-9dd6-61f5105f0d9a")
 		(property "Reference" "J40"
-			(at 121.92 203.1999 0)
+			(at 130.81 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13539,7 +13539,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 205.7399 0)
+			(at 130.81 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13548,7 +13548,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 205.74 0)
+			(at 124.46 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13557,7 +13557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 205.74 0)
+			(at 124.46 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13566,7 +13566,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 205.74 0)
+			(at 124.46 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13610,7 +13610,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_36")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 205.74 0)
+		(at 109.22 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13619,7 +13619,7 @@
 		(fields_autoplaced yes)
 		(uuid "1686ce4d-c27e-4ab2-9086-d560811c5e77")
 		(property "Reference" "J36"
-			(at 106.68 203.1999 0)
+			(at 115.57 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13628,7 +13628,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 205.7399 0)
+			(at 115.57 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13637,7 +13637,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 205.74 0)
+			(at 109.22 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13646,7 +13646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 205.74 0)
+			(at 109.22 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13655,7 +13655,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 205.74 0)
+			(at 109.22 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13699,7 +13699,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_29")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 104.14 0)
+		(at 170.18 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13708,7 +13708,7 @@
 		(fields_autoplaced yes)
 		(uuid "16c66616-acb1-4cb8-9e97-2a986f174fb5")
 		(property "Reference" "J26"
-			(at 167.64 101.5999 0)
+			(at 176.53 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13717,7 +13717,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 104.1399 0)
+			(at 176.53 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13726,7 +13726,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 104.14 0)
+			(at 170.18 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13735,7 +13735,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 104.14 0)
+			(at 170.18 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13744,7 +13744,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 104.14 0)
+			(at 170.18 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13788,7 +13788,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_41")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 180.34 0)
+		(at 215.9 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13797,7 +13797,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d077d18-8024-4261-8bef-ab9d3c068d1d")
 		(property "Reference" "J63"
-			(at 213.36 177.7999 0)
+			(at 222.25 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13806,7 +13806,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 180.3399 0)
+			(at 222.25 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13815,7 +13815,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 180.34 0)
+			(at 215.9 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13824,7 +13824,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 180.34 0)
+			(at 215.9 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13833,7 +13833,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 180.34 0)
+			(at 215.9 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13877,7 +13877,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_63")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 129.54 0)
+		(at 170.18 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13886,7 +13886,7 @@
 		(fields_autoplaced yes)
 		(uuid "29b3a65d-9aad-4689-9a1d-dc72df7a6dde")
 		(property "Reference" "J49"
-			(at 167.64 126.9999 0)
+			(at 176.53 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13895,7 +13895,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 129.5399 0)
+			(at 176.53 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13904,7 +13904,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 129.54 0)
+			(at 170.18 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13913,7 +13913,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 129.54 0)
+			(at 170.18 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13922,7 +13922,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 129.54 0)
+			(at 170.18 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13966,7 +13966,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_62")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 154.94 0)
+		(at 185.42 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13975,7 +13975,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fd104f0-7138-4243-8c5b-7a86cd60666e")
 		(property "Reference" "J54"
-			(at 182.88 152.3999 0)
+			(at 191.77 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13984,7 +13984,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 154.9399 0)
+			(at 191.77 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13993,7 +13993,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 154.94 0)
+			(at 185.42 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14002,7 +14002,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 154.94 0)
+			(at 185.42 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14011,7 +14011,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 154.94 0)
+			(at 185.42 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14055,7 +14055,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_31")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 78.74 0)
+		(at 170.18 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14064,7 +14064,7 @@
 		(fields_autoplaced yes)
 		(uuid "33f78cc5-7e0d-42bb-8d0f-1d727b7eda2a")
 		(property "Reference" "J25"
-			(at 167.64 76.1999 0)
+			(at 176.53 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14073,7 +14073,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 78.7399 0)
+			(at 176.53 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14082,7 +14082,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 78.74 0)
+			(at 170.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14091,7 +14091,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 78.74 0)
+			(at 170.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14100,7 +14100,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 78.74 0)
+			(at 170.18 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14144,7 +14144,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_44")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 205.74 0)
+		(at 215.9 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14153,7 +14153,7 @@
 		(fields_autoplaced yes)
 		(uuid "38a71925-9cf4-472b-99ec-cbc20cecc294")
 		(property "Reference" "J64"
-			(at 213.36 203.1999 0)
+			(at 222.25 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14162,7 +14162,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 205.7399 0)
+			(at 222.25 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14171,7 +14171,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 205.74 0)
+			(at 215.9 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14180,7 +14180,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 205.74 0)
+			(at 215.9 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14189,7 +14189,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 205.74 0)
+			(at 215.9 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14233,7 +14233,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_53")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 129.54 0)
+		(at 124.46 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14242,7 +14242,7 @@
 		(fields_autoplaced yes)
 		(uuid "3a40b13c-c4e7-449c-953e-8786b2f8e509")
 		(property "Reference" "J37"
-			(at 121.92 126.9999 0)
+			(at 130.81 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14251,7 +14251,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 129.5399 0)
+			(at 130.81 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14260,7 +14260,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 129.54 0)
+			(at 124.46 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14269,7 +14269,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 129.54 0)
+			(at 124.46 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14278,7 +14278,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 129.54 0)
+			(at 124.46 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14322,7 +14322,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_47")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 205.74 0)
+		(at 170.18 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14331,7 +14331,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c2c6362-842b-4a0c-bdb6-5d55facbaaf4")
 		(property "Reference" "J52"
-			(at 167.64 203.1999 0)
+			(at 176.53 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14340,7 +14340,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 205.7399 0)
+			(at 176.53 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14349,7 +14349,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 205.74 0)
+			(at 170.18 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14358,7 +14358,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 205.74 0)
+			(at 170.18 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14367,7 +14367,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 205.74 0)
+			(at 170.18 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14411,7 +14411,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_27")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 104.14 0)
+		(at 215.9 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14420,7 +14420,7 @@
 		(fields_autoplaced yes)
 		(uuid "3dc6cb12-9b30-43b9-a7cb-6c4d0ecc1203")
 		(property "Reference" "J32"
-			(at 213.36 101.5999 0)
+			(at 222.25 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14429,7 +14429,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 104.1399 0)
+			(at 222.25 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14438,7 +14438,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 104.14 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14447,7 +14447,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 104.14 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14456,7 +14456,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 104.14 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14500,7 +14500,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_39")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 180.34 0)
+		(at 154.94 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14509,7 +14509,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f24c9e4-3332-4438-ab12-1016258dcdb0")
 		(property "Reference" "J47"
-			(at 152.4 177.7999 0)
+			(at 161.29 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14518,7 +14518,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 180.3399 0)
+			(at 161.29 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14527,7 +14527,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 180.34 0)
+			(at 154.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14536,7 +14536,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 180.34 0)
+			(at 154.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14545,7 +14545,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 180.34 0)
+			(at 154.94 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14589,7 +14589,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_61")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 154.94 0)
+		(at 215.9 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14598,7 +14598,7 @@
 		(fields_autoplaced yes)
 		(uuid "42501eeb-e0cd-437f-9b75-fc87f6c64627")
 		(property "Reference" "J62"
-			(at 213.36 152.3999 0)
+			(at 222.25 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14607,7 +14607,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 154.9399 0)
+			(at 222.25 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14616,7 +14616,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 154.94 0)
+			(at 215.9 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14625,7 +14625,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 154.94 0)
+			(at 215.9 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14634,7 +14634,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 154.94 0)
+			(at 215.9 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14678,7 +14678,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_14")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 53.34 0)
+		(at 170.18 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14687,7 +14687,7 @@
 		(fields_autoplaced yes)
 		(uuid "426e1a3d-e276-4dc4-b8d2-8b13a3505fc5")
 		(property "Reference" "J13"
-			(at 167.64 50.7999 0)
+			(at 176.53 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14696,7 +14696,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 53.3399 0)
+			(at 176.53 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14705,7 +14705,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 53.34 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14714,7 +14714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 53.34 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14723,7 +14723,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 53.34 0)
+			(at 170.18 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14767,7 +14767,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_4")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 27.94 0)
+		(at 139.7 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14776,7 +14776,7 @@
 		(fields_autoplaced yes)
 		(uuid "43058118-f005-4495-8bc4-3ed532db12d7")
 		(property "Reference" "J3"
-			(at 137.16 25.3999 0)
+			(at 146.05 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14785,7 +14785,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 27.9399 0)
+			(at 146.05 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14794,7 +14794,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 27.94 0)
+			(at 139.7 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14803,7 +14803,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 27.94 0)
+			(at 139.7 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14812,7 +14812,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 27.94 0)
+			(at 139.7 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14856,7 +14856,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_32")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 78.74 0)
+		(at 200.66 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14865,7 +14865,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a6ed919-77ff-403c-9972-2c049ac7b6f9")
 		(property "Reference" "J29"
-			(at 198.12 76.1999 0)
+			(at 207.01 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14874,7 +14874,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 78.7399 0)
+			(at 207.01 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14883,7 +14883,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 78.74 0)
+			(at 200.66 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14892,7 +14892,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 78.74 0)
+			(at 200.66 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14901,7 +14901,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 78.74 0)
+			(at 200.66 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14945,7 +14945,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_10")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 53.34 0)
+		(at 124.46 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14954,7 +14954,7 @@
 		(fields_autoplaced yes)
 		(uuid "4aa003fd-3f78-4cd4-bbed-1c5b89f56304")
 		(property "Reference" "J10"
-			(at 121.92 50.7999 0)
+			(at 130.81 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14963,7 +14963,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 53.3399 0)
+			(at 130.81 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14972,7 +14972,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 53.34 0)
+			(at 124.46 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14981,7 +14981,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 53.34 0)
+			(at 124.46 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14990,7 +14990,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 53.34 0)
+			(at 124.46 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15034,7 +15034,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_9")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 53.34 0)
+		(at 215.9 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15043,7 +15043,7 @@
 		(fields_autoplaced yes)
 		(uuid "502f2614-3dc7-4b47-83da-1b6effab164d")
 		(property "Reference" "J16"
-			(at 213.36 50.7999 0)
+			(at 222.25 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15052,7 +15052,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 53.3399 0)
+			(at 222.25 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15061,7 +15061,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 53.34 0)
+			(at 215.9 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15070,7 +15070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 53.34 0)
+			(at 215.9 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15079,7 +15079,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 53.34 0)
+			(at 215.9 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15123,7 +15123,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_34")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 180.34 0)
+		(at 124.46 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15132,7 +15132,7 @@
 		(fields_autoplaced yes)
 		(uuid "5146862a-cba9-468b-b76f-a7fd2bfc977f")
 		(property "Reference" "J39"
-			(at 121.92 177.7999 0)
+			(at 130.81 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15141,7 +15141,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 180.3399 0)
+			(at 130.81 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15150,7 +15150,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 180.34 0)
+			(at 124.46 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15159,7 +15159,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 180.34 0)
+			(at 124.46 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15168,7 +15168,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 180.34 0)
+			(at 124.46 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15212,7 +15212,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_49")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 129.54 0)
+		(at 139.7 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15221,7 +15221,7 @@
 		(fields_autoplaced yes)
 		(uuid "5568cc00-b75b-4644-88f8-e4d579c8bcf4")
 		(property "Reference" "J41"
-			(at 137.16 126.9999 0)
+			(at 146.05 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15230,7 +15230,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 129.5399 0)
+			(at 146.05 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15239,7 +15239,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 129.54 0)
+			(at 139.7 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15248,7 +15248,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 129.54 0)
+			(at 139.7 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15257,7 +15257,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 129.54 0)
+			(at 139.7 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15301,7 +15301,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_58")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 129.54 0)
+		(at 215.9 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15310,7 +15310,7 @@
 		(fields_autoplaced yes)
 		(uuid "5831a5b9-680a-4083-9ddf-e9bbed45fda0")
 		(property "Reference" "J61"
-			(at 213.36 126.9999 0)
+			(at 222.25 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15319,7 +15319,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 129.5399 0)
+			(at 222.25 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15328,7 +15328,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 129.54 0)
+			(at 215.9 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15337,7 +15337,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 129.54 0)
+			(at 215.9 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15346,7 +15346,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 129.54 0)
+			(at 215.9 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15390,7 +15390,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_60")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 154.94 0)
+		(at 200.66 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15399,7 +15399,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e8a800b-8a83-4fbe-9334-68be90504e0b")
 		(property "Reference" "J58"
-			(at 198.12 152.3999 0)
+			(at 207.01 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15408,7 +15408,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 154.9399 0)
+			(at 207.01 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15417,7 +15417,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 154.94 0)
+			(at 200.66 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15426,7 +15426,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 154.94 0)
+			(at 200.66 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15435,7 +15435,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 154.94 0)
+			(at 200.66 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15479,7 +15479,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_33")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 205.74 0)
+		(at 154.94 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15488,7 +15488,7 @@
 		(fields_autoplaced yes)
 		(uuid "6111f608-256f-415b-b9b3-c08913a561a4")
 		(property "Reference" "J48"
-			(at 152.4 203.1999 0)
+			(at 161.29 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15497,7 +15497,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 205.7399 0)
+			(at 161.29 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15506,7 +15506,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 205.74 0)
+			(at 154.94 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15515,7 +15515,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 205.74 0)
+			(at 154.94 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15524,7 +15524,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 205.74 0)
+			(at 154.94 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15568,7 +15568,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_30")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 78.74 0)
+		(at 185.42 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15577,7 +15577,7 @@
 		(fields_autoplaced yes)
 		(uuid "613d5314-0214-4338-aa10-a70a047ded4f")
 		(property "Reference" "J27"
-			(at 182.88 76.1999 0)
+			(at 191.77 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15586,7 +15586,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 78.7399 0)
+			(at 191.77 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15595,7 +15595,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 78.74 0)
+			(at 185.42 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15604,7 +15604,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 78.74 0)
+			(at 185.42 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15613,7 +15613,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 78.74 0)
+			(at 185.42 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15657,7 +15657,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_55")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 154.94 0)
+		(at 154.94 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15666,7 +15666,7 @@
 		(fields_autoplaced yes)
 		(uuid "620f4716-baa0-467e-900b-67e30ed87234")
 		(property "Reference" "J46"
-			(at 152.4 152.3999 0)
+			(at 161.29 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15675,7 +15675,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 154.9399 0)
+			(at 161.29 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15684,7 +15684,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 154.94 0)
+			(at 154.94 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15693,7 +15693,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 154.94 0)
+			(at 154.94 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15702,7 +15702,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 154.94 0)
+			(at 154.94 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15746,7 +15746,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_7")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 27.94 0)
+		(at 200.66 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15755,7 +15755,7 @@
 		(fields_autoplaced yes)
 		(uuid "63b5f0af-4a6e-40e3-a4b3-8a6b86ba8c52")
 		(property "Reference" "J7"
-			(at 198.12 25.3999 0)
+			(at 207.01 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15764,7 +15764,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 27.9399 0)
+			(at 207.01 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15773,7 +15773,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 27.94 0)
+			(at 200.66 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15782,7 +15782,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 27.94 0)
+			(at 200.66 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15791,7 +15791,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 27.94 0)
+			(at 200.66 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15835,7 +15835,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_54")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 154.94 0)
+		(at 139.7 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15844,7 +15844,7 @@
 		(fields_autoplaced yes)
 		(uuid "6b5998ea-5ac4-4be3-b305-66ba28ce60bf")
 		(property "Reference" "J42"
-			(at 137.16 152.3999 0)
+			(at 146.05 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15853,7 +15853,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 154.9399 0)
+			(at 146.05 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15862,7 +15862,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 154.94 0)
+			(at 139.7 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15871,7 +15871,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 154.94 0)
+			(at 139.7 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15880,7 +15880,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 154.94 0)
+			(at 139.7 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15924,7 +15924,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_42")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 180.34 0)
+		(at 185.42 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15933,7 +15933,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c03e5db-e4fa-4fd3-96cf-cddfb80aa27f")
 		(property "Reference" "J55"
-			(at 182.88 177.7999 0)
+			(at 191.77 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15942,7 +15942,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 180.3399 0)
+			(at 191.77 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15951,7 +15951,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 180.34 0)
+			(at 185.42 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15960,7 +15960,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 180.34 0)
+			(at 185.42 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15969,7 +15969,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 180.34 0)
+			(at 185.42 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16013,7 +16013,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_3")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 27.94 0)
+		(at 154.94 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16022,7 +16022,7 @@
 		(fields_autoplaced yes)
 		(uuid "70ffa626-7577-4f05-9e4c-13ddda4068d7")
 		(property "Reference" "J4"
-			(at 152.4 25.3999 0)
+			(at 161.29 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16031,7 +16031,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 27.9399 0)
+			(at 161.29 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16040,7 +16040,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 27.94 0)
+			(at 154.94 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16049,7 +16049,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 27.94 0)
+			(at 154.94 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16058,7 +16058,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 27.94 0)
+			(at 154.94 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16102,7 +16102,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_22")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 104.14 0)
+		(at 154.94 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16111,7 +16111,7 @@
 		(fields_autoplaced yes)
 		(uuid "810f6071-60b4-4db1-a02f-7a3f1f7dc2b7")
 		(property "Reference" "J24"
-			(at 152.4 101.5999 0)
+			(at 161.29 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16120,7 +16120,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 104.1399 0)
+			(at 161.29 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16129,7 +16129,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 104.14 0)
+			(at 154.94 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16138,7 +16138,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 104.14 0)
+			(at 154.94 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16147,7 +16147,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 104.14 0)
+			(at 154.94 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16191,7 +16191,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_50")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 154.94 0)
+		(at 124.46 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16200,7 +16200,7 @@
 		(fields_autoplaced yes)
 		(uuid "84abcfe4-8fa7-434d-8102-91b9824ec8a1")
 		(property "Reference" "J38"
-			(at 121.92 152.3999 0)
+			(at 130.81 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16209,7 +16209,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 154.9399 0)
+			(at 130.81 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16218,7 +16218,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 154.94 0)
+			(at 124.46 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16227,7 +16227,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 154.94 0)
+			(at 124.46 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16236,7 +16236,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 154.94 0)
+			(at 124.46 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16280,7 +16280,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_19")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 78.74 0)
+		(at 139.7 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16289,7 +16289,7 @@
 		(fields_autoplaced yes)
 		(uuid "859533cc-24c9-4c9f-bdb6-52d4b16ffdfd")
 		(property "Reference" "J21"
-			(at 137.16 76.1999 0)
+			(at 146.05 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16298,7 +16298,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 78.7399 0)
+			(at 146.05 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16307,7 +16307,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 78.74 0)
+			(at 139.7 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16316,7 +16316,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 78.74 0)
+			(at 139.7 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16325,7 +16325,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 78.74 0)
+			(at 139.7 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16369,7 +16369,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_43")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 205.74 0)
+		(at 185.42 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16378,7 +16378,7 @@
 		(fields_autoplaced yes)
 		(uuid "872d5c2a-b3e3-484c-8be1-abc63f879205")
 		(property "Reference" "J56"
-			(at 182.88 203.1999 0)
+			(at 191.77 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16387,7 +16387,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 205.7399 0)
+			(at 191.77 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16396,7 +16396,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 205.74 0)
+			(at 185.42 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16405,7 +16405,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 205.74 0)
+			(at 185.42 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16414,7 +16414,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 205.74 0)
+			(at 185.42 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16458,7 +16458,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_38")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 180.34 0)
+		(at 139.7 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16467,7 +16467,7 @@
 		(fields_autoplaced yes)
 		(uuid "93c45df6-5b18-4d42-877f-59191a17889b")
 		(property "Reference" "J43"
-			(at 137.16 177.7999 0)
+			(at 146.05 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16476,7 +16476,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 180.3399 0)
+			(at 146.05 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16485,7 +16485,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 180.34 0)
+			(at 139.7 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16494,7 +16494,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 180.34 0)
+			(at 139.7 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16503,7 +16503,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 180.34 0)
+			(at 139.7 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16547,7 +16547,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_48")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 180.34 0)
+		(at 170.18 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16556,7 +16556,7 @@
 		(fields_autoplaced yes)
 		(uuid "9c7289cf-49b6-4a4e-a126-6e7bc637d997")
 		(property "Reference" "J51"
-			(at 167.64 177.7999 0)
+			(at 176.53 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16565,7 +16565,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 180.3399 0)
+			(at 176.53 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16574,7 +16574,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 180.34 0)
+			(at 170.18 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16583,7 +16583,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 180.34 0)
+			(at 170.18 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16592,7 +16592,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 180.34 0)
+			(at 170.18 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16636,7 +16636,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_25")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 78.74 0)
+		(at 215.9 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16645,7 +16645,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e21cb00-fcd9-41e3-aabe-304c1bd21be7")
 		(property "Reference" "J31"
-			(at 213.36 76.1999 0)
+			(at 222.25 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16654,7 +16654,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 78.7399 0)
+			(at 222.25 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16663,7 +16663,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 78.74 0)
+			(at 215.9 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16672,7 +16672,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 78.74 0)
+			(at 215.9 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16681,7 +16681,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 78.74 0)
+			(at 215.9 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16725,7 +16725,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_52")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 129.54 0)
+		(at 109.22 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16734,7 +16734,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0ebcaf8-d8ae-4db6-8a5f-71feee403185")
 		(property "Reference" "J33"
-			(at 106.68 126.9999 0)
+			(at 115.57 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16743,7 +16743,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 129.5399 0)
+			(at 115.57 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16752,7 +16752,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 129.54 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16761,7 +16761,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 129.54 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16770,7 +16770,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 129.54 0)
+			(at 109.22 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16814,7 +16814,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_56")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 129.54 0)
+		(at 154.94 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16823,7 +16823,7 @@
 		(fields_autoplaced yes)
 		(uuid "a67e0a69-7313-45be-bd7d-04c284746c19")
 		(property "Reference" "J45"
-			(at 152.4 126.9999 0)
+			(at 161.29 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16832,7 +16832,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 129.5399 0)
+			(at 161.29 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16841,7 +16841,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 129.54 0)
+			(at 154.94 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16850,7 +16850,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 129.54 0)
+			(at 154.94 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16859,7 +16859,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 129.54 0)
+			(at 154.94 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16903,7 +16903,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_23")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 104.14 0)
+		(at 109.22 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16912,7 +16912,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6854767-d42f-4476-95cc-75c9bd456119")
 		(property "Reference" "J18"
-			(at 106.68 101.5999 0)
+			(at 115.57 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16921,7 +16921,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 104.1399 0)
+			(at 115.57 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16930,7 +16930,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 104.14 0)
+			(at 109.22 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16939,7 +16939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 104.14 0)
+			(at 109.22 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16948,7 +16948,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 104.14 0)
+			(at 109.22 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16992,7 +16992,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_15")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 53.34 0)
+		(at 109.22 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17001,7 +17001,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6ea2bf8-a9f3-43d9-bb9b-83cfb4286c5f")
 		(property "Reference" "J9"
-			(at 106.68 50.7999 0)
+			(at 115.57 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17010,7 +17010,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 53.3399 0)
+			(at 115.57 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17019,7 +17019,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 53.34 0)
+			(at 109.22 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17028,7 +17028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 53.34 0)
+			(at 109.22 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17037,7 +17037,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 53.34 0)
+			(at 109.22 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17081,7 +17081,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_28")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 104.14 0)
+		(at 185.42 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17090,7 +17090,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1871424-932a-463d-b27e-2f1faf052589")
 		(property "Reference" "J28"
-			(at 182.88 101.5999 0)
+			(at 191.77 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17099,7 +17099,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 104.1399 0)
+			(at 191.77 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17108,7 +17108,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 104.14 0)
+			(at 185.42 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17117,7 +17117,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 104.14 0)
+			(at 185.42 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17126,7 +17126,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 104.14 0)
+			(at 185.42 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17170,7 +17170,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_17")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 78.74 0)
+		(at 109.22 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17179,7 +17179,7 @@
 		(fields_autoplaced yes)
 		(uuid "b8db7b24-f7f9-4ab2-8c44-fe7baadc90ef")
 		(property "Reference" "J17"
-			(at 106.68 76.1999 0)
+			(at 115.57 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17188,7 +17188,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 78.7399 0)
+			(at 115.57 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17197,7 +17197,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 78.74 0)
+			(at 109.22 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17206,7 +17206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 78.74 0)
+			(at 109.22 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17215,7 +17215,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 78.74 0)
+			(at 109.22 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17259,7 +17259,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_16")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 53.34 0)
+		(at 200.66 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17268,7 +17268,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9a89683-aba3-460f-b82a-3ff17c5a5e43")
 		(property "Reference" "J15"
-			(at 198.12 50.7999 0)
+			(at 207.01 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17277,7 +17277,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 53.3399 0)
+			(at 207.01 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17286,7 +17286,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 53.34 0)
+			(at 200.66 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17295,7 +17295,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 53.34 0)
+			(at 200.66 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17304,7 +17304,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 53.34 0)
+			(at 200.66 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17348,7 +17348,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_40")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 180.34 0)
+		(at 109.22 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17357,7 +17357,7 @@
 		(fields_autoplaced yes)
 		(uuid "ba6f76b6-a794-406e-8341-67357c7e82bb")
 		(property "Reference" "J35"
-			(at 106.68 177.7999 0)
+			(at 115.57 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17366,7 +17366,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 180.3399 0)
+			(at 115.57 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17375,7 +17375,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 180.34 0)
+			(at 109.22 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17384,7 +17384,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 180.34 0)
+			(at 109.22 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17393,7 +17393,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 180.34 0)
+			(at 109.22 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17437,7 +17437,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_11")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 53.34 0)
+		(at 139.7 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17446,7 +17446,7 @@
 		(fields_autoplaced yes)
 		(uuid "c99714f2-c09f-4db8-83f9-a4411077dcf9")
 		(property "Reference" "J11"
-			(at 137.16 50.7999 0)
+			(at 146.05 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17455,7 +17455,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 53.3399 0)
+			(at 146.05 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17464,7 +17464,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 53.34 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17473,7 +17473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 53.34 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17482,7 +17482,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 53.34 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17526,7 +17526,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_5")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 207.01 27.94 0)
+		(at 215.9 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17535,7 +17535,7 @@
 		(fields_autoplaced yes)
 		(uuid "cdbd613b-ab59-489d-84f7-70ad6eac6d46")
 		(property "Reference" "J8"
-			(at 213.36 25.3999 0)
+			(at 222.25 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17544,7 +17544,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 213.36 27.9399 0)
+			(at 222.25 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17553,7 +17553,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 207.01 27.94 0)
+			(at 215.9 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17562,7 +17562,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 27.94 0)
+			(at 215.9 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17571,7 +17571,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 27.94 0)
+			(at 215.9 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17615,7 +17615,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_46")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 180.34 0)
+		(at 200.66 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17624,7 +17624,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce1ccafe-ca3c-413b-b1f4-e171dbd5714b")
 		(property "Reference" "J59"
-			(at 198.12 177.7999 0)
+			(at 207.01 207.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17633,7 +17633,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 180.3399 0)
+			(at 207.01 209.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17642,7 +17642,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 180.34 0)
+			(at 200.66 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17651,7 +17651,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 180.34 0)
+			(at 200.66 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17660,7 +17660,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 180.34 0)
+			(at 200.66 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17704,7 +17704,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_2")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 27.94 0)
+		(at 109.22 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17713,7 +17713,7 @@
 		(fields_autoplaced yes)
 		(uuid "d000bab1-c708-4bd7-8b9a-9e819d980a54")
 		(property "Reference" "J1"
-			(at 106.68 25.3999 0)
+			(at 115.57 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17722,7 +17722,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 27.9399 0)
+			(at 115.57 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17731,7 +17731,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 27.94 0)
+			(at 109.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17740,7 +17740,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 27.94 0)
+			(at 109.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17749,7 +17749,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 27.94 0)
+			(at 109.22 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17793,7 +17793,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_51")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 100.33 154.94 0)
+		(at 109.22 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17802,7 +17802,7 @@
 		(fields_autoplaced yes)
 		(uuid "d045a08c-c8ea-4c58-8cf3-4c27f4ba93a1")
 		(property "Reference" "J34"
-			(at 106.68 152.3999 0)
+			(at 115.57 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17811,7 +17811,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 106.68 154.9399 0)
+			(at 115.57 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17820,7 +17820,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 100.33 154.94 0)
+			(at 109.22 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17829,7 +17829,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 154.94 0)
+			(at 109.22 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17838,7 +17838,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 100.33 154.94 0)
+			(at 109.22 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17882,7 +17882,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_64")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 129.54 0)
+		(at 200.66 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17891,7 +17891,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4f56f00-8dc0-438e-87ce-35140053fd64")
 		(property "Reference" "J57"
-			(at 198.12 126.9999 0)
+			(at 207.01 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17900,7 +17900,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 129.5399 0)
+			(at 207.01 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17909,7 +17909,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 129.54 0)
+			(at 200.66 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17918,7 +17918,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 129.54 0)
+			(at 200.66 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17927,7 +17927,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 129.54 0)
+			(at 200.66 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17971,7 +17971,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_37")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 205.74 0)
+		(at 139.7 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17980,7 +17980,7 @@
 		(fields_autoplaced yes)
 		(uuid "df39273c-29dc-4744-825f-1fc8b7526bfc")
 		(property "Reference" "J44"
-			(at 137.16 203.1999 0)
+			(at 146.05 232.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17989,7 +17989,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 205.7399 0)
+			(at 146.05 234.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17998,7 +17998,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 205.74 0)
+			(at 139.7 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18007,7 +18007,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 205.74 0)
+			(at 139.7 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18016,7 +18016,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 205.74 0)
+			(at 139.7 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18060,7 +18060,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_1")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 27.94 0)
+		(at 124.46 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18069,7 +18069,7 @@
 		(fields_autoplaced yes)
 		(uuid "e1840028-a2bb-43ca-8de1-43bf57bd0a42")
 		(property "Reference" "J2"
-			(at 121.92 25.3999 0)
+			(at 130.81 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18078,7 +18078,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 27.9399 0)
+			(at 130.81 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18087,7 +18087,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 27.94 0)
+			(at 124.46 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18096,7 +18096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 27.94 0)
+			(at 124.46 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18105,7 +18105,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 27.94 0)
+			(at 124.46 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18149,7 +18149,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_18")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 78.74 0)
+		(at 124.46 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18158,7 +18158,7 @@
 		(fields_autoplaced yes)
 		(uuid "e47d4036-c5f0-4c55-806c-c945064ef69e")
 		(property "Reference" "J19"
-			(at 121.92 76.1999 0)
+			(at 130.81 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18167,7 +18167,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 78.7399 0)
+			(at 130.81 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18176,7 +18176,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 78.74 0)
+			(at 124.46 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18185,7 +18185,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 78.74 0)
+			(at 124.46 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18194,7 +18194,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 78.74 0)
+			(at 124.46 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18238,7 +18238,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_20")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 115.57 104.14 0)
+		(at 124.46 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18247,7 +18247,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4ab22d0-e4a7-4c19-819a-0719b072be75")
 		(property "Reference" "J20"
-			(at 121.92 101.5999 0)
+			(at 130.81 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18256,7 +18256,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 121.92 104.1399 0)
+			(at 130.81 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18265,7 +18265,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 115.57 104.14 0)
+			(at 124.46 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18274,7 +18274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 104.14 0)
+			(at 124.46 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18283,7 +18283,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 115.57 104.14 0)
+			(at 124.46 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18327,7 +18327,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_59")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 129.54 0)
+		(at 185.42 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18336,7 +18336,7 @@
 		(fields_autoplaced yes)
 		(uuid "e7917480-d554-42e3-b089-dfee3e54e937")
 		(property "Reference" "J53"
-			(at 182.88 126.9999 0)
+			(at 191.77 156.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18345,7 +18345,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 129.5399 0)
+			(at 191.77 158.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18354,7 +18354,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 129.54 0)
+			(at 185.42 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18363,7 +18363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 129.54 0)
+			(at 185.42 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18372,7 +18372,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 129.54 0)
+			(at 185.42 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18416,7 +18416,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_8")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 27.94 0)
+		(at 170.18 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18425,7 +18425,7 @@
 		(fields_autoplaced yes)
 		(uuid "ebe96623-13d5-434b-92a2-37bb3dd00b74")
 		(property "Reference" "J5"
-			(at 167.64 25.3999 0)
+			(at 176.53 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18434,7 +18434,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 27.9399 0)
+			(at 176.53 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18443,7 +18443,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 27.94 0)
+			(at 170.18 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18452,7 +18452,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 27.94 0)
+			(at 170.18 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18461,7 +18461,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 27.94 0)
+			(at 170.18 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18505,7 +18505,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_26")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 191.77 104.14 0)
+		(at 200.66 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18514,7 +18514,7 @@
 		(fields_autoplaced yes)
 		(uuid "ed13d912-9ae8-4cc9-8c6a-39181fa78ad5")
 		(property "Reference" "J30"
-			(at 198.12 101.5999 0)
+			(at 207.01 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18523,7 +18523,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 198.12 104.1399 0)
+			(at 207.01 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18532,7 +18532,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 191.77 104.14 0)
+			(at 200.66 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18541,7 +18541,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 104.14 0)
+			(at 200.66 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18550,7 +18550,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 191.77 104.14 0)
+			(at 200.66 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18594,7 +18594,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_21")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 78.74 0)
+		(at 154.94 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18603,7 +18603,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0221ffa-6907-4639-8722-f316499e30f4")
 		(property "Reference" "J23"
-			(at 152.4 76.1999 0)
+			(at 161.29 105.4099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18612,7 +18612,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 78.7399 0)
+			(at 161.29 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18621,7 +18621,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 78.74 0)
+			(at 154.94 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18630,7 +18630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 78.74 0)
+			(at 154.94 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18639,7 +18639,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 78.74 0)
+			(at 154.94 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18683,7 +18683,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_6")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 176.53 27.94 0)
+		(at 185.42 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18692,7 +18692,7 @@
 		(fields_autoplaced yes)
 		(uuid "f569762b-95fb-4b7a-8dc1-d8fc39a1a29e")
 		(property "Reference" "J6"
-			(at 182.88 25.3999 0)
+			(at 191.77 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18701,7 +18701,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 182.88 27.9399 0)
+			(at 191.77 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18710,7 +18710,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 176.53 27.94 0)
+			(at 185.42 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18719,7 +18719,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 27.94 0)
+			(at 185.42 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18728,7 +18728,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 27.94 0)
+			(at 185.42 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18772,7 +18772,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_57")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 161.29 154.94 0)
+		(at 170.18 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18781,7 +18781,7 @@
 		(fields_autoplaced yes)
 		(uuid "f7b6f089-cfdc-4c94-95c6-518003ef97f0")
 		(property "Reference" "J50"
-			(at 167.64 152.3999 0)
+			(at 176.53 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18790,7 +18790,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 167.64 154.9399 0)
+			(at 176.53 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18799,7 +18799,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 161.29 154.94 0)
+			(at 170.18 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18808,7 +18808,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 154.94 0)
+			(at 170.18 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18817,7 +18817,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 161.29 154.94 0)
+			(at 170.18 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18861,7 +18861,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_24")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 130.81 104.14 0)
+		(at 139.7 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18870,7 +18870,7 @@
 		(fields_autoplaced yes)
 		(uuid "f83baa0a-852c-4c50-a296-efa171c84966")
 		(property "Reference" "J22"
-			(at 137.16 101.5999 0)
+			(at 146.05 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18879,7 +18879,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 137.16 104.1399 0)
+			(at 146.05 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18888,7 +18888,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 130.81 104.14 0)
+			(at 139.7 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18897,7 +18897,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 104.14 0)
+			(at 139.7 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18906,7 +18906,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 130.81 104.14 0)
+			(at 139.7 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18950,7 +18950,7 @@
 	(symbol
 		(lib_name "Conn_rond_8_1_12")
 		(lib_id "Mes_symboles:Conn_rond_8_1")
-		(at 146.05 53.34 0)
+		(at 154.94 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18959,7 +18959,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8b2c4cc-565c-49ad-9bf3-33eac01ca033")
 		(property "Reference" "J12"
-			(at 152.4 50.7999 0)
+			(at 161.29 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18968,7 +18968,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 152.4 53.3399 0)
+			(at 161.29 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18977,7 +18977,7 @@
 			)
 		)
 		(property "Footprint" "Mes_empreintes:Untitled"
-			(at 146.05 53.34 0)
+			(at 154.94 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18986,7 +18986,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 53.34 0)
+			(at 154.94 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18995,7 +18995,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 53.34 0)
+			(at 154.94 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)

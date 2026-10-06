@@ -6,7 +6,49 @@
 	(paper "A3")
 	(lib_symbols)
 	(sheet
-		(at 299.72 148.59)
+		(at 246.38 40.64)
+		(size 49.53 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "26c10166-d065-456d-a9ec-e373476587a8")
+		(property "Sheetname" "bateau_taille_3"
+			(at 246.38 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bateau_taille_3.kicad_sch"
+			(at 246.38 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "grand plateau v0"
+				(path "/7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 49.53)
 		(size 54.61 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +64,7 @@
 		)
 		(uuid "42a30afe-4a98-4827-8d2f-353789b9fe3f")
 		(property "Sheetname" "bateau_taille_2"
-			(at 299.72 147.8784 0)
+			(at 170.18 48.8184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +73,7 @@
 			)
 		)
 		(property "Sheetfile" "bateau_taille_2.kicad_sch"
-			(at 299.72 166.9546 0)
+			(at 170.18 67.8946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48,7 +90,7 @@
 		)
 	)
 	(sheet
-		(at 204.47 73.66)
+		(at 73.66 39.37)
 		(size 41.91 43.18)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +106,7 @@
 		)
 		(uuid "757df064-a6f3-451e-9a20-3bfea97f7eee")
 		(property "Sheetname" "grand_plateau"
-			(at 204.47 72.9484 0)
+			(at 73.66 38.6584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "grand_plateau.kicad_sch"
-			(at 204.47 117.4246 0)
+			(at 73.66 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85,6 +127,48 @@
 			(project "grand plateau v0"
 				(path "/7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 326.39 36.83)
+		(size 60.96 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "db0ee7f9-6c09-41e7-9539-aad56a675a93")
+		(property "Sheetname" "bateau_taille_4"
+			(at 326.39 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bateau_taille_4.kicad_sch"
+			(at 326.39 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "grand plateau v0"
+				(path "/7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f"
+					(page "5")
 				)
 			)
 		)

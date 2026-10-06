@@ -621,6 +621,14 @@
     [
       "757df064-a6f3-451e-9a20-3bfea97f7eee",
       "grand_plateau"
+    ],
+    [
+      "26c10166-d065-456d-a9ec-e373476587a8",
+      "bateau_taille_3"
+    ],
+    [
+      "db0ee7f9-6c09-41e7-9539-aad56a675a93",
+      "bateau_taille_4"
     ]
   ],
   "text_variables": {}
