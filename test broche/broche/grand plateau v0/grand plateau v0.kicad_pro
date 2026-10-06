@@ -613,6 +613,14 @@
     [
       "7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f",
       "Root"
+    ],
+    [
+      "42a30afe-4a98-4827-8d2f-353789b9fe3f",
+      "bateau_taille_2"
+    ],
+    [
+      "757df064-a6f3-451e-9a20-3bfea97f7eee",
+      "grand_plateau"
     ]
   ],
   "text_variables": {}

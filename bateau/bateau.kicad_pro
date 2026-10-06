@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Battleship.kicad_pro",
+    "filename": "bateau.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -611,7 +611,7 @@
   },
   "sheets": [
     [
-      "8b8b0899-94d0-4d6e-bca3-95eb04bb6802",
+      "f64c2bba-59fe-475b-91f0-224f6a4c0f37",
       "Root"
     ]
   ],
