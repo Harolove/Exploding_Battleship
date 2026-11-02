@@ -123,9 +123,10 @@ Les identifiants R1 à R8 permettent de situer les risques dans la matrice. Le n
 - 🟥 Rouge : action prioritaire
 - 
 
-j'ai refatit la matrice sur excel pour la modifier vous avez besoin d'avoir excel.
+j'ai refatit la matrice sur excel pour la modifier vous avez besoin d'avoir excel. J'ai modifier un peu l'ordre des risques et regroupé certain risque ensemble.
 <img width="1652" height="220" alt="image" src="https://github.com/user-attachments/assets/820a74cb-6073-4372-9d91-418905a23763" />
 [matrice risque.xlsx](https://github.com/user-attachments/files/34267542/matrice.risque.xlsx)
+Si vous modifier le excel merci de mettre un copie dans le git
 
 ### Priorités
 
