@@ -1,4 +1,4 @@
-# Document de pré-cadrage
+# Document de pré-cadrage et matrice risque
 
 ## Projet Battleship
 
@@ -109,7 +109,7 @@ Les identifiants R1 à R8 permettent de situer les risques dans la matrice. Le n
 
 | Probabilité \ Impact | 1 — Insignifiant | 2 — Mineur | 3 — Significatif | 4 — Majeur | 5 — Sévère |
 |---|---:|---:|---:|---:|---:|
-| **5 — Presque certain** | 🟨 5 | 🟧 10 | 🟥 15 | 🟥 20 | 🟥 25 |
+| **5 — Certain** | 🟨 5 | 🟧 10 | 🟥 15 | 🟥 20 | 🟥 25 |
 | **4 — Probable** | 🟨 4 | 🟨 8 | 🟧 12 | 🟥 **16 — R7** | 🟥 20 |
 | **3 — Modéré** | 🟩 3 | 🟨 6 | 🟨 **9 — R4, R8** | 🟧 **12 — R2, R3, R5** | 🟥 15 |
 | **2 — Improbable** | 🟩 2 | 🟩 4 | 🟨 **6 — R6** | 🟨 8 | 🟧 **10 — R1** |
@@ -121,6 +121,11 @@ Les identifiants R1 à R8 permettent de situer les risques dans la matrice. Le n
 - 🟨 Jaune : attention
 - 🟧 Orange : réduction du risque à prévoir
 - 🟥 Rouge : action prioritaire
+- 
+
+j'ai refatit la matrice sur excel pour la modifier vous avez besoin d'avoir excel.
+<img width="1652" height="220" alt="image" src="https://github.com/user-attachments/assets/820a74cb-6073-4372-9d91-418905a23763" />
+[matrice risque.xlsx](https://github.com/user-attachments/files/34267542/matrice.risque.xlsx)
 
 ### Priorités
 
@@ -129,3 +134,5 @@ Le risque de retard (**R7**) est le plus critique : une démonstration en févri
 Les risques de faisabilité (**R2**), de communication (**R3**) et de conception des PCB (**R5**) doivent être traités tôt pour éviter de bloquer l'intégration.
 
 Le risque de sécurité (**R1**) constitue un point bloquant pour l'utilisation des condensateurs, indépendamment de son score. Si la sécurité ou la faisabilité de cet effet n'est pas validée, le prototype utilisera un retour par LED.
+
+
