@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 105.41 24.13)
+		(size 54.61 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "42a30afe-4a98-4827-8d2f-353789b9fe3f")
+		(property "Sheetname" "bateau_taille_2"
+			(at 105.41 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bateau_taille_2.kicad_sch"
+			(at 105.41 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "grand plateau v0"
+				(path "/7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 20.32)
+		(size 41.91 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "757df064-a6f3-451e-9a20-3bfea97f7eee")
+		(property "Sheetname" "grand_plateau"
+			(at 36.83 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "grand_plateau.kicad_sch"
+			(at 36.83 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "grand plateau v0"
+				(path "/7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 80.01)
+		(size 41.91 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "db197819-124e-44aa-ae13-660024c64545")
+		(property "Sheetname" "bench test"
+			(at 38.1 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 38.1 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "grand plateau v0"
+				(path "/7a85495e-2bfc-48e4-8ed7-0a3f11b4bc2f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
