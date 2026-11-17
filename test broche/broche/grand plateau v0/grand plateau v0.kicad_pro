@@ -133,7 +133,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -623,12 +623,21 @@
       "grand_plateau"
     ],
     [
+<<<<<<< HEAD
+      "db197819-124e-44aa-ae13-660024c64545",
+      "bench test"
+    ],
+    [
+      "fb0ee9b8-9ac9-4340-9972-a1a23f5aeb6c",
+      "bateau_proto"
+=======
       "26c10166-d065-456d-a9ec-e373476587a8",
       "bateau_taille_3"
     ],
     [
       "db0ee7f9-6c09-41e7-9539-aad56a675a93",
       "bateau_taille_4"
+>>>>>>> 97a3596645e140bab532c46455453fcda93b151f
     ]
   ],
   "text_variables": {}

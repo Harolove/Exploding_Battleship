@@ -3,6 +3,10 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "6a7cb09f-e943-4542-b53c-0fd6cbdb1861")
+<<<<<<< HEAD
+	(paper "A2")
+	(lib_symbols)
+=======
 	(paper "A3")
 	(lib_symbols
 		(symbol "Conn_rond_8_1_1"
@@ -19036,4 +19040,5 @@
 			)
 		)
 	)
+>>>>>>> 97a3596645e140bab532c46455453fcda93b151f
 )

@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C12, C13",0603,3,1µF,
+C14,0603,1,100nF,
+D3,0603,1,LED_Small,
+"J1, J4",JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical,2,Conn_01x05_Pin,
+J5,JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical,1,Conn_01x07_Pin,
+"Q1, Q2, Q3, Q4",SOT-23,4,NMOS,
+"R10, R13, R15, R17, R7, R8, R9",0603,7,1k,
+"R11, R12, R14, R16",0603,4,100,
+U3,TSSOP-20_4.4x6.5mm_P0.65mm,1,STM32F030F4Px,
+U5,SOT-23-5,1,BU33SD5WG-TR,

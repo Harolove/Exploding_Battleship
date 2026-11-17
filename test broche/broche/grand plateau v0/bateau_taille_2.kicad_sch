@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "53a4a817-d794-4358-a47d-63de7676bf9f")
 	(paper "A4")
+<<<<<<< HEAD
+	(lib_symbols)
+=======
 	(lib_symbols
 		(symbol "Conn_rond_8_1_1"
 			(exclude_from_sim no)
@@ -612,4 +615,5 @@
 			)
 		)
 	)
+>>>>>>> 97a3596645e140bab532c46455453fcda93b151f
 )
