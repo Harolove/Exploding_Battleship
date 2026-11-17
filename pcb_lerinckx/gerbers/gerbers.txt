@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0,000001 mm; 0,299999 mm] for the current design rules.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-F_Cu.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-B_Cu.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-F_Paste.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-B_Paste.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-F_Mask.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-B_Mask.gbr'.
+Plotted to 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\maxim\Documents\KiCad\pcb_lerinckx\pcb_lerinckx-job.gbrjob'.
+Info: Done.
